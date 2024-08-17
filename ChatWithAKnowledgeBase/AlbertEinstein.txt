@@ -1,0 +1,3 @@
+In physics, mass–energy equivalence is the relationship between mass and energy in a system's rest frame, 
+where the two quantities differ only by a multiplicative constant and the units of measurement. 
+The principle is described by the physicist Albert Einstein's formula: E = m*c^2
